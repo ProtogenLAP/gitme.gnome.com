@@ -1,1 +1,1 @@
-# gitme.gnome.co-
+# gitme.gnome.com
